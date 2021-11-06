@@ -11,3 +11,11 @@ h1
     font-family: Arial;
     color: #ffffff;
 }
+a:link
+{
+    color: #ffffff
+}
+a:visited
+{
+    color: #ffffff
+}
